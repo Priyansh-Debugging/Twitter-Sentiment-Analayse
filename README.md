@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analayse🧠
+# Twitter-Sentiment-Analayse🧠 
 Coursera project on Sentiment Analysis using demo Twitter data and  
 creating a Scatter Plot b/w No. of Retweets and Net Score
 
